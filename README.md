@@ -14,7 +14,7 @@ Python 3.11
 ## Reproducing results from the paper
 All main code is named by related figure or table, e.g.figure_5.py.
 
-The dataset required to run the code can be downloaded from https://data.mendeley.com/datasets/8gngr6tphf.
+The relevant experimental data can be downloaded from https://data.mendeley.com/datasets/8gngr6tphf.
 
 
 ## License
